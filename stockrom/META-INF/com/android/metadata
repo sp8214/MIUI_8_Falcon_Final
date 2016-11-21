@@ -1,0 +1,3 @@
+post-build=motorola/falcon/falcon:6.0.1/MOB30Z/2cfba34581:userdebug/test-keys
+post-timestamp=1479175793
+pre-device=falcon
